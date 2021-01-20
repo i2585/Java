@@ -1,2 +1,2 @@
 # Java
-Java server&amp;client
+Java server&amp;client project
